@@ -1,7 +1,7 @@
 # Mayaxcver3.0
 Halo {pushname} {ucapan}
 *BOT INFO*
-👨‍💻 Server : wibusoft.com
+👨‍💻 Server : mayagrrr.com
 📕 Language : Javascirpt
 💌 Data Base : MongoDB
 🌐 Libary : Baileys
